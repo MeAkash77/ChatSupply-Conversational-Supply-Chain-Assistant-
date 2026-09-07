@@ -1,6 +1,5 @@
-![Smart Supply Chain Agent Banner](<img width="1942" height="809" alt="Image" src="https://github.com/user-attachments/assets/cfdb407c-46be-4cef-86e1-a8bc346e0084" />)
-
 # 🤖 Smart Supply Chain Agent
+<img width="1942" height="809" alt="Image" src="https://github.com/user-attachments/assets/cfdb407c-46be-4cef-86e1-a8bc346e0084" />
 
 > **Your Autonomous AI Supply Chain Manager**
 
